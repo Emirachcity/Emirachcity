@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Emirachcity
+- 👀 I’m interested in full stack web developing
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 💞️ I’m looking to collaborate on my current project
+- 📫 You can reach me on whatsapp via +234 9035093866
+- ⚡ Fun fact: ...i'm a gamer
